@@ -166,22 +166,27 @@ footer{
 .prima-colonna{
     flex-basis: 15%;
     color: white;
+    
+}
+
+.titolo-bandiera{
+      
+    
 }
 
 h3{
     font-size: 30px;
-    vertical-align: middle;
 }
 
 .prima-colonna img{
     padding-top: 10px;
-    width: 25px;
+    width: 30px;
     vertical-align: middle;
-    
 }
 
 span{
-    vertical-align: middle;
+    line-height: 50px;
+    padding-top: 20px;
 }
 
 .seconda-colonna{
