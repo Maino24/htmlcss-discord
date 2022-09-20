@@ -6,6 +6,8 @@
 
 header{
     background-image: url("../img/jumbo.png");
+    background-size: cover;
+    
    
 }
 
@@ -49,7 +51,7 @@ li{
     width: 60%;
     margin: 0 auto;
     text-align: center;
-    background-color: orange;
+    
     height: 300px;
 }
 
