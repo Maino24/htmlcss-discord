@@ -54,6 +54,10 @@ li{
     padding-top: 80px;
 }
 
+h1{
+    color: white;
+}
+
 .sottotitolo{
     padding-top: 60px;
     color: white;
@@ -68,10 +72,10 @@ li{
 }
 
 #bottone-sinistra{
-    flex-basis: 20%;
+    flex-basis: 25%;
     color: black;
     font-size: 20px;
-    padding: 5px;
+    padding: 10px;
     border-radius: 40px;
     border: 0;
     
@@ -82,7 +86,7 @@ li{
     background-color: black;
     color: white;
     font-size: 20px;
-    padding: 5px;
+    padding: 10px;
     border-radius: 40px;
     border: 0;
     margin-left: 10px;
