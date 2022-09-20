@@ -166,7 +166,7 @@ footer{
 }
 
 .prima-colonna{
-    flex-basis: 20%;
+    flex-basis: 15%;
     color: white;
 }
 
@@ -225,4 +225,11 @@ span{
     border-radius: 40px;
     border: 0;
     
+}
+
+#simboli-social{
+    display: flex;
+    padding-top: 30px;
+    color: white;
+    justify-content: space-between;
 }
