@@ -14,6 +14,7 @@ nav{
     margin: auto;
     display: flex;
     justify-content: space-between;
+    padding-top: 20px;
     
 }
 
@@ -22,17 +23,25 @@ nav{
     margin: auto;
 }
 
-.lista {
-    background-color: greenyellow;
+.lista {  
+    width: 600px; 
+}
+
+ul{
     display: flex;
+   justify-content: space-between;
 }
 
 li{
     list-style: none;
+    color: white;
 }
 
 .link{
     background-color: white;
+    width: 80px;
+    border-radius: 40%;
+    border: 0;
     
 }
 
