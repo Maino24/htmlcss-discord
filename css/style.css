@@ -135,7 +135,19 @@ h1{
     align-items: center;
 }
 .scritta-bottone{
-    
+    text-align: center;
+    margin: 40px;  
+}
+
+#bottone-fine{
+    flex-basis: 25%;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 40px;
+    border: 0;
+    margin-bottom: 40px;
+    margin-top: 30px;
 }
 
 .tabella{
