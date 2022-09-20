@@ -48,7 +48,7 @@ li{
 }
 
 .sotto-menu{
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
     text-align: center;
     padding-top: 80px;
@@ -63,11 +63,24 @@ li{
 .bottoni{
    padding-top: 20px;
    padding-bottom: 100px;
+   display: flex;
+   justify-content: center;
 }
 
 #bottone-sinistra{
-    width: 200px;
+    flex-basis: 20%;
     color: black;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 40px;
+    border: 0;
+    
+}
+
+#bottone-destra{
+    flex-basis: 35%;
+    background-color: black;
+    color: white;
     font-size: 20px;
     padding: 5px;
     border-radius: 40px;
