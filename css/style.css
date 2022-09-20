@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: grey;
+}
+
+nav{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    background-color: red;
+    justify-content: space-between;
+    height: 50px;
+    
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.logo{
+    background-color: greenyellow;
+    width: 40px;
+}
+
+.lista{
+    background-color: greenyellow;
+    width: 40px;
+}
+
+.link{
+    background-color: greenyellow;
+    width: 40px;
+}
+
+.sotto-menu{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: orange;
+    height: 300px;
+}
+
+.contenitore-sezione{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.uno .contenitore-sinistra{
+    background-color: greenyellow;
+    margin-right: 20px;
+    height: 200px;
+    flex-basis: 50%;
+}
+
+.uno .contenitore-destra{
+    background-color: green;
+    margin-left: 20px;
+    height: 200px;
+    flex-basis: 50%;
+}
+
+.due{
+    background-color: grey;
+}
+
+.due .contenitore-sinistra{
+    background-color: green;
+    margin-right: 20px;
+    height: 200px;
+    flex-basis: 50%;
+}
+
+.due .contenitore-destra{
+    background-color: greenyellow;
+    margin-left: 20px;
+    height: 200px;
+    flex-basis: 50%
+}
+
+h2{
+    height: 200px;
+    background-color: rgb(23, 211, 23);
+}
+
+.img{
+    height: 200px;
+    background-color: green;
+}
+
+.scritta-bottone{
+    height: 200px;
+    background-color: greenyellow;
+}
+
+.tabella{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    border-bottom: solid gray 2px;
+}
+
+.prima-colonna{
+    background-color: red;
+    height: 400px;
+    flex-basis: 30%;
+    
+}
+
+.seconda-colonna{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    background-color: orange;
+    height: 400px;
+    flex-direction: row;
+    flex-basis: 68%;
+}
+
+.prima-prima{
+    border: 1px solid black;
+    flex-direction: row;
+}
+
+.footer-fine{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+
+.imgdiscord-registrati{
+    background-color: lightblue;
+    height: 60px;
+    width: 40px;
+
+}
