@@ -124,13 +124,16 @@ h1{
     flex-basis: 50%
 }
 
-.img{
+.titolo-quartasection{
+    margin-top: 50px;
+    padding-top: 100px;
+    text-align: center;
+
     
 }
 
 .scritta-bottone{
-    height: 200px;
-    background-color: greenyellow;
+    
 }
 
 .tabella{
