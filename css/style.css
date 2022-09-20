@@ -133,12 +133,10 @@ h1{
 }
 
 #ultima-img{
-    display: flex;
-    align-items: center;
+    text-align: center;
 }
 .scritta-bottone{
-    text-align: center;
-    margin: 40px;  
+    text-align: center;  
 }
 
 #bottone-fine{
