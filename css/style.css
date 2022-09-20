@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+
+
 header{
     background-image: url("../img/jumbo.png");
     background-size: cover;
@@ -170,11 +172,13 @@ footer{
 
 h3{
     font-size: 30px;
+    vertical-align: middle;
 }
 
 .prima-colonna img{
     padding-top: 10px;
     width: 25px;
+    vertical-align: middle;
     
 }
 
