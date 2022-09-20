@@ -48,11 +48,16 @@ li{
 }
 
 .sotto-menu{
-    width: 60%;
+    width: 50%;
     margin: 0 auto;
     text-align: center;
-    
-    height: 300px;
+    padding-top: 80px;
+}
+
+.sottotitolo{
+    padding-top: 60px;
+    color: white;
+    font-size: 20px;
 }
 
 .contenitore-sezione{
