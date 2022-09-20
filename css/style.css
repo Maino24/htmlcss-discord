@@ -60,6 +60,20 @@ li{
     font-size: 20px;
 }
 
+.bottoni{
+   padding-top: 20px;
+   padding-bottom: 100px;
+}
+
+#bottone-sinistra{
+    width: 200px;
+    color: black;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 40px;
+    border: 0;
+}
+
 .contenitore-sezione{
     display: flex;
     justify-content: space-between;
