@@ -127,11 +127,13 @@ h1{
 .titolo-quartasection{
     margin-top: 50px;
     padding-top: 100px;
-    text-align: center;
-
-    
+    text-align: center;   
 }
 
+#ultima-img{
+    display: flex;
+    align-items: center;
+}
 .scritta-bottone{
     
 }
