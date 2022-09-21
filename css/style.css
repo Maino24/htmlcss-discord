@@ -114,6 +114,10 @@ h1{
     display: flex;
     flex-basis: 48%;
     flex-direction: column;
+    }
+
+p{
+    padding-top: 20px;
 }
 
 .due{
