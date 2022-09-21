@@ -176,11 +176,6 @@ footer{
     
 }
 
-.titolo-bandiera{
-      
-    
-}
-
 h3{
     font-size: 30px;
 }
@@ -202,7 +197,6 @@ span{
     justify-content: space-between;
     align-items: stretch;
     height: 400px;
-    flex-direction: row;
     flex-basis: 68%;
 }
 
@@ -212,6 +206,8 @@ span{
 
 .seconda-lista li{
     padding-top: 10px;
+    
+
 }
 
 .parola-colorata{
